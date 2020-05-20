@@ -1,0 +1,13 @@
+﻿  ANN.cpp
+c:\users\raoul\downloads\ann_rhofmann\ann\ann.cpp(20): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\raoul\downloads\ann_rhofmann\ann\ann.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\raoul\downloads\ann_rhofmann\ann\ann.cpp(77): warning C4244: 'argument': conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+c:\users\raoul\downloads\ann_rhofmann\ann\ann.cpp(83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\raoul\downloads\ann_rhofmann\ann\ann.cpp(89): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\raoul\downloads\ann_rhofmann\ann\ann.cpp(111): warning C4018: '<': signed/unsigned mismatch
+c:\users\raoul\downloads\ann_rhofmann\ann\ann.cpp(113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\raoul\downloads\ann_rhofmann\ann\ann.cpp(130): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\raoul\downloads\ann_rhofmann\ann\ann.cpp(205): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\raoul\downloads\ann_rhofmann\ann\ann.cpp(287): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ANN.vcxproj -> C:\Users\Raoul\Downloads\ANN_RHofmann\ANN\Debug\ANN.exe
+  ANN.vcxproj -> C:\Users\Raoul\Downloads\ANN_RHofmann\ANN\Debug\ANN.pdb (Full PDB)
